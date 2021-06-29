@@ -1,0 +1,6 @@
+Jim - Salesman
+Dwight - Salesman
+Alice - receptionist
+Peter - working
+Toby - Human Resources
+Kelly - Customer Service
